@@ -1,9 +1,9 @@
 # Nahum Murillo
 
 ## Hello World 👋 
-I am a software developer, I am 18 years old. I'm from costa rica.
+I like to program in my spare time. I am 18 years old. I'm from costa rica.
 
-I'm currently learning advanced JavaScript, fullstack coming soon
+I'm currently learning advanced JavaScript.
 
 ## About me
 🌱&nbsp;Learning about **Web development**
