@@ -5,7 +5,7 @@
 
 👨‍💻 Computer Engineer student.
 
-I like to program in my spare time. I am 18 years old. I'm from costa rica.
+I like to program in my spare time.  
 
 I'm currently learning advanced JavaScript.
 
