@@ -1,9 +1,9 @@
 # Nahum Murillo
 
 ## Hello World 👋 
-Tecnolgico de Costa Rica 🎓
+🎓 Tecnolgico de Costa Rica 
 
-Computer Engineer student.
+👨‍💻 Computer Engineer student.
 
 I like to program in my spare time. I am 18 years old. I'm from costa rica.
 
