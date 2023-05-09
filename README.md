@@ -1,14 +1,4 @@
-# Nahum Murillo
-<div style="background: linear-gradient(to bottom, #1abc9c, #ffffff); 
-            width: 300px; 
-            height: 200px; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            font-size: 36px; 
-            font-weight: bold;">
-    Nahúm Murillo
-</div>
+# Nahum Murill
 
 
 ## Hello World 👋 
