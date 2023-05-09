@@ -1,11 +1,13 @@
 # Nahum Murillo
-<div style="
-    background: linear-gradient(to right, #1c2237, #2a3c5b);
-    color: white;
-    text-align: center;
-    padding: 20px;
-">
-    <h1 style="margin: 0;">Nahúm Murillo</h1>
+<div style="background: linear-gradient(to bottom, #1abc9c, #ffffff); 
+            width: 300px; 
+            height: 200px; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            font-size: 36px; 
+            font-weight: bold;">
+    Nahúm Murillo
 </div>
 
 
