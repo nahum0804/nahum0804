@@ -12,6 +12,7 @@ I'm currently learning advanced JavaScript.
 
 ## About me
 🌱&nbsp;Learning about **Web development**
+🧠&nbsp;**AI** Junkie with a Zealous Spirit
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
