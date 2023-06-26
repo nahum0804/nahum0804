@@ -15,6 +15,8 @@ I'm currently learning advanced JavaScript.
 
 🧠&nbsp;**AI** Junkie with a Zealous Spirit
 
+🐧&nbsp;Thriving in the **Linux** Ecosystem
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
