@@ -12,6 +12,7 @@ I'm currently learning advanced JavaScript.
 
 ## About me
 🌱&nbsp;Learning about **Web development**
+
 🧠&nbsp;**AI** Junkie with a Zealous Spirit
 
 ## Tech Stack
