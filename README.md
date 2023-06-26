@@ -4,9 +4,9 @@
 ## Hello World 👋 
 🎓 Tecnológico de Costa Rica 
 
-👨‍💻 Computer Engineer student.
+👨‍💻 Computer Engineer Student.
 
-🤠 I like to program.  
+🤠 Coding as a Way of Life. 
 
 I'm currently learning advanced JavaScript.
 
