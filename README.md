@@ -25,4 +25,6 @@ I'm currently learning advanced JavaScript.
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" height="25">&nbsp;
+
 
