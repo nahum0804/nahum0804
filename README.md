@@ -26,6 +26,8 @@ I'm currently learning advanced JavaScript.
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=339933" alt="Node.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB Badge" height="25">&nbsp;
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804&layout=compact&theme=dark) -->
 
