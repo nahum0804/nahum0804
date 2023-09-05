@@ -4,7 +4,7 @@
 ## Hello World 👋 
 🎓 Tecnológico de Costa Rica 
 
-👨‍💻 Computer Engineer Student.
+👨‍💻 Software Engineer Student.
 
 🤠 Coding as a Way of Life. 
 
