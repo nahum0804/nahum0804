@@ -30,6 +30,8 @@ I'm currently learning advanced JavaScript.
 <img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus&logoColor=00599C" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=007396" alt="Java Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Assembly-05122A?style=flat&logo=assemblyColor=333333" alt="Assembly Badge" height="25">&nbsp;
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804&layout=compact&theme=dark) -->
 
 
