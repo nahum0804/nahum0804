@@ -19,7 +19,7 @@ I'm currently learning advanced JavaScript.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify&perline=9)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="css3 Badge" height="25">&nbsp;
