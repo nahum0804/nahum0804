@@ -19,10 +19,11 @@ I'm currently learning advanced JavaScript.
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify&perline=9">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify&perline=9" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,assembly&perline=9">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,assembly&perline=9" alt="My Skills">
   </a>
 </div>
+
 
 
 
