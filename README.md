@@ -2,7 +2,7 @@
 
 
 <div align="center">
-## Hello World 👋 
+  <h2>Hello World 👋</h2> 
 </div>
 
 🎓 Tecnológico de Costa Rica 
@@ -14,7 +14,7 @@
 I'm currently learning advanced JavaScript.
 
 <div align="center">
-## About me
+  <h2>About me</h2>
 </div>
   
 🌱&nbsp;Learning about **Web development**
