@@ -1,7 +1,10 @@
 # Nahúm Murillo
 
 
+<div align="center">
 ## Hello World 👋 
+</div>
+
 🎓 Tecnológico de Costa Rica 
 
 👨‍💻 Software Engineer Student.
@@ -10,7 +13,10 @@
 
 I'm currently learning advanced JavaScript.
 
+<div align="center">
 ## About me
+</div>
+  
 🌱&nbsp;Learning about **Web development**
 
 🧠&nbsp;**AI** Junkie with a Zealous Spirit
