@@ -5,11 +5,10 @@
   <h2>Hello World 👋</h2> 
 </div>
 
-🎓 Tecnológico de Costa Rica 
+👨‍💻🎓 Tecnológico de Costa Rica - Software Engineer Student.
 
-👨‍💻 Software Engineer Student.
 
-🤠 Coding as a Way of Life. 
+🤠 Coding as a hobbie. 
 
 I'm currently learning advanced JavaScript.
 
