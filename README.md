@@ -13,7 +13,7 @@
 
 🎓 Tecnológico de Costa Rica - Software Engineer Student.
 
-I'm currently learning advanced JavaScript and some libraries (React JS, Node JS...)
+🌐 I'm currently learning advanced JavaScript
 
 <div align="center">
   <h2>About me</h2>
