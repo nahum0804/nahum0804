@@ -1,5 +1,7 @@
 # Nahúm Murillo
 
+!JavaScript Hello World
+
 
 <div align="center">
   <h2>Hello World 👋</h2> 
@@ -25,7 +27,7 @@ I'm currently learning advanced JavaScript.
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,express,bash,cpp,java,py,firebase,netlify,assembly&perline=9">
+  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,assembly&perline=9">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,mongodb,assembly&perline=9" alt="My Skills">
   </a>
 </div>
