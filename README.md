@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>Hello World 👋</h2> 
-  <img src="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM" alt="Hello World GIF">
+  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" alt="Hello World GIF">
 </div>
 
 🎓 Tecnológico de Costa Rica - Software Engineer Student.
