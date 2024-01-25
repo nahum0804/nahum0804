@@ -11,14 +11,15 @@
 <br>
 
 
-🎓 Tecnológico de Costa Rica - Software Engineer Student.
-
-🌐 I'm currently learning advanced JavaScript
-
-
-🚀 **Passionate AI Enthusiast and Web Developer**
-
 Hey there! 👋 I'm Nahúm, a fervent explorer in the realms of Artificial Intelligence and web development. Constantly on the lookout for opportunities to expand my knowledge and tackle exciting challenges in these domains.
+
+
+🎓 **Education:**
+- Pursuing a degree in Software Engineering at Tecnológico de Costa Rica.
+
+
+🌐 **Current Learning Focus:**
+- I'm currently learning advanced JavaScript, pushing the boundaries of what can be achieved on the web and integrating this knowledge into my AI endeavors.
 
 
 🌱 **Learning Journey:**
