@@ -1,18 +1,13 @@
 # Nahúm Murillo
 
-!JavaScript Hello World
-
 
 <div align="center">
   <h2>Hello World 👋</h2> 
 </div>
 
-👨‍💻🎓 Tecnológico de Costa Rica - Software Engineer Student.
+🎓 Tecnológico de Costa Rica - Software Engineer Student.
 
-
-🤠 Coding as a hobbie. 
-
-I'm currently learning advanced JavaScript.
+I'm currently learning advanced JavaScript and some libraries (React JS, Node JS...)
 
 <div align="center">
   <h2>About me</h2>
