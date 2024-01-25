@@ -28,8 +28,8 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,assembly&perline=9">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,postman,bash,cpp,java,py,firebase,netlify,mongodb,assembly&perline=9" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=html,css,sass,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,express,postman,firebase,netlify,bash,cpp,java,py,sqlite,matlab,opencv,sklearn,dart,flutter,wasm&perline=9">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,pug,react,vue,bootstrap,tailwind,vite,nodejs,express,postman,firebase,netlify,mongodb,bash,cpp,java,py,sqlite,matlab,opencv,sklearn,dart,flutter,wasm&perline=9" alt="My Skills">
   </a>
 </div>
 
