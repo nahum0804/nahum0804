@@ -6,6 +6,11 @@
   <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" alt="Hello World GIF">
 </div>
 
+<br>
+
+<br>
+
+
 🎓 Tecnológico de Costa Rica - Software Engineer Student.
 
 I'm currently learning advanced JavaScript and some libraries (React JS, Node JS...)
