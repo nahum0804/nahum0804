@@ -50,8 +50,8 @@ Let's shape the future through code! 🌐✨
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,sass,vite,nodejs,express,postman,firebase,netlify,bash,cpp,java,py,sqlite,matlab,opencv,sklearn,dart,flutter&perline=9">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,sass,vite,nodejs,express,postman,firebase,netlify,mongodb,bash,cpp,java,py,sqlite,matlab,tensorflow,opencv,sklearn,dart,flutter&perline=9" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,sass,vite,nodejs,express,postman,firebase,netlify,bash,cpp,java,py,sqlite,matlab,opencv,sklearn,dart,flutter,rust,haskell&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,sass,vite,nodejs,express,postman,firebase,netlify,mongodb,bash,cpp,java,py,sqlite,matlab,tensorflow,opencv,sklearn,dart,flutter,rust,haskell&perline=10" alt="My Skills">
   </a>
 </div>
 
