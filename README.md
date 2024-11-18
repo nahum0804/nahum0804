@@ -19,7 +19,7 @@ Hey there! 👋 I'm Nahúm, a fervent explorer in the realms of Artificial Intel
 
 
 🌐 **Current Learning Focus:**
-- I'm currently learning advanced JavaScript, pushing the boundaries of what can be achieved on the web and integrating this knowledge into my AI endeavors.
+- Exploring machine learning models and experimenting with the latest AI advancements to bridge the gap between intelligence and usability in digital solutions.
 
 
 🌱 **Learning Journey:**
