@@ -58,8 +58,6 @@ Let's shape the future through code! 🌐✨
 <br>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nahum0804&count_private=true&theme=tokyonight&showicons=true)]()
-
 
 <!--  <h3 <p align="left"> <img src="" alt="buy me coffee" /> </p> </h3> -->
 
