@@ -57,7 +57,7 @@ Let's shape the future through code! 🌐✨
 
 <br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  <h3 <p align="left"> <img src="" alt="buy me coffee" /> </p> </h3> -->
 
