@@ -54,14 +54,9 @@ Let's shape the future through code! 🌐✨
     <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,react,vue,bootstrap,tailwind,sass,vite,nodejs,express,nestjs,postman,firebase,netlify,mongodb,java,spring,bash,cpp,py,sqlite,matlab,tensorflow,pytorch,opencv,sklearn,dart,flutter,go,rust,haskell,docker,azure,aws&perline=9" alt="My Skills">
   </a>
 </div>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--  <h3 <p align="left"> <img src="" alt="buy me coffee" /> </p> </h3> -->
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804&layout=compact&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804&layout=compact&theme=dark)
 
 
