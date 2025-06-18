@@ -57,6 +57,3 @@ Let's shape the future through code! 🌐✨
 <!--  <h3 <p align="left"> <img src="" alt="buy me coffee" /> </p> </h3> -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahum0804&layout=compact&theme=dark)
-
-
